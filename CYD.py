@@ -1,4 +1,3 @@
-
 import streamlit as st
 import time
 from PIL import Image
@@ -186,13 +185,3 @@ elif (page == '飞马游戏推荐') :
     page6()
 elif (page == '实时新闻') :
     page7()
-
-
-
-
-
-    
-
-
-
-
